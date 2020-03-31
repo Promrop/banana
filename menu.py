@@ -1,1 +1,2 @@
-print('manu1')
+print('main manu')
+print('add')
